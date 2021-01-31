@@ -14,12 +14,12 @@ function App() {
       <div>
         <Nav />
         <Switch>
-          <Route exact path="/18-277" component={Adithya} />
-          <Route exact path="/18-086" component={Jlokesh} />
-          <Route exact path="/18-117" component={Lokesh} />
-          <Route exact path="/18-236" component={Anuhya} />
-          <Route exact path="/18-396" component={Geethika} />
-          <Route exact path="/" component={Dashboard} />
+          <Route exact path="/our-grades/18-277" component={Adithya} />
+          <Route exact path="/our-grades/18-086" component={Jlokesh} />
+          <Route exact path="/our-grades/18-117" component={Lokesh} />
+          <Route exact path="/our-grades/18-236" component={Anuhya} />
+          <Route exact path="/our-grades/18-396" component={Geethika} />
+          <Route exact path="/our-grades" component={Dashboard} />
         </Switch>
       </div>
     </Router>
