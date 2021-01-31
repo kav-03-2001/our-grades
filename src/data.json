@@ -1,0 +1,1132 @@
+{
+    "adithya": [
+        {
+            "id": "1",
+            "ccode": "CHEM111",
+            "ctitle": "CHEMISTRY",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "2",
+            "ccode": "EGL112",
+            "ctitle": "ENGLISH LANGUAGE SKILLS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "3",
+            "ccode": "MATH113",
+            "ctitle": "LINEAR ALGEBRA",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "4",
+            "ccode": "PHY114",
+            "ctitle": "PHYSICS-I",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "5",
+            "ccode": "TA115",
+            "ctitle": "ENGINEERING GRAPHICS",
+            "credits": "4",
+            "grade": "B",
+            "cxgp": "32"
+        },
+        {
+            "id": "6",
+            "ccode": "TA116",
+            "ctitle": "COMPUTER PROGRAMMING-I",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "7",
+            "ccode": "ES121",
+            "ctitle": "THERMODYNAMICS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "8",
+            "ccode": "HS122",
+            "ctitle": "INTRODUCTION TO PSYCHOLOGY",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "9",
+            "ccode": "MA123",
+            "ctitle": "HIGHER CALCULUS",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "10",
+            "ccode": "PH124",
+            "ctitle": "PHYSICS-II",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "11",
+            "ccode": "TA125",
+            "ctitle": "MEASUREMENT TECHNIQUES-I",
+            "credits": "2",
+            "grade": "A",
+            "cxgp": "20"
+        },
+        {
+            "id": "12",
+            "ccode": "TA126",
+            "ctitle": "WORKSHOP PRACTICE",
+            "credits": "4",
+            "grade": "C",
+            "cxgp": "24"
+        },
+        {
+            "id": "13",
+            "ccode": "TA127",
+            "ctitle": "COMPUTER PROGRAMMING II",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "14",
+            "ccode": "ES211",
+            "ctitle": "ELECTRICAL SCIENCE-I",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "15",
+            "ccode": "ES212",
+            "ctitle": "STRUCTURE AND PROPERTIES OF MATERIALS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "16",
+            "ccode": "ES213",
+            "ctitle": "ENGINEERING MECHANICS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "17",
+            "ccode": "EN214",
+            "ctitle": "PRINCIPLE OF ECONOMICS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "18",
+            "ccode": "MA215",
+            "ctitle": "COMPLEX VARIABLES",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "19",
+            "ccode": "MA216",
+            "ctitle": "DIFFERENTIAL EQUATIONS AND FOURIER SERIES",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "20",
+            "ccode": "MG217",
+            "ctitle": "PRINCIPLES OF MANAGEMENT",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "21",
+            "ccode": "AO121",
+            "ctitle": "PROBABILITY AND STATISTICS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "22",
+            "ccode": "CS221",
+            "ctitle": "DIGITAL ELECTRONICS AND COMPUTER ORGANIZATION",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "23",
+            "ccode": "CS222",
+            "ctitle": "DISCRETE STRUCTURES FOR COMPUTER SCIENCE",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "24",
+            "ccode": "ES222",
+            "ctitle": "ELECTRICAL SCIENCE-II",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "25",
+            "ccode": "HS223",
+            "ctitle": "DYNAMICS OF SOCIAL CHANGE",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "26",
+            "ccode": "TA224",
+            "ctitle": "PROFESSIONAL COMMUNICATION",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "27",
+            "ccode": "TA225",
+            "ctitle": "MEASUREMENT TECHNIQUES-II",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "28",
+            "ccode": "IP221",
+            "ctitle": "INTERNSHIP PROGRAM-I",
+            "credits": "5",
+            "grade": "A",
+            "cxgp": "50"
+        }
+    ],
+	"jlokesh": [
+        {
+            "id": "1",
+            "ccode": "CHEM111",
+            "ctitle": "CHEMISTRY",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "2",
+            "ccode": "EGL112",
+            "ctitle": "ENGLISH LANGUAGE SKILLS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "3",
+            "ccode": "MATH113",
+            "ctitle": "LINEAR ALGEBRA",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "4",
+            "ccode": "PHY114",
+            "ctitle": "PHYSICS-I",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "5",
+            "ccode": "TA115",
+            "ctitle": "ENGINEERING GRAPHICS",
+            "credits": "4",
+            "grade": "C",
+            "cxgp": "24"
+        },
+        {
+            "id": "6",
+            "ccode": "TA116",
+            "ctitle": "COMPUTER PROGRAMMING-I",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "7",
+            "ccode": "ES121",
+            "ctitle": "THERMODYNAMICS",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "8",
+            "ccode": "HS122",
+            "ctitle": "INTRODUCTION TO PSYCHOLOGY",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "9",
+            "ccode": "MA123",
+            "ctitle": "HIGHER CALCULUS",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "10",
+            "ccode": "PH124",
+            "ctitle": "PHYSICS-II",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "11",
+            "ccode": "TA125",
+            "ctitle": "MEASUREMENT TECHNIQUES-I",
+            "credits": "2",
+            "grade": "C",
+            "cxgp": "12"
+        },
+        {
+            "id": "12",
+            "ccode": "TA126",
+            "ctitle": "WORKSHOP PRACTICE",
+            "credits": "4",
+            "grade": "D",
+            "cxgp": "16"
+        },
+        {
+            "id": "13",
+            "ccode": "TA127",
+            "ctitle": "COMPUTER PROGRAMMING II",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "14",
+            "ccode": "ES211",
+            "ctitle": "ELECTRICAL SCIENCE-I",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "15",
+            "ccode": "ES212",
+            "ctitle": "STRUCTURE AND PROPERTIES OF MATERIALS",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "16",
+            "ccode": "ES213",
+            "ctitle": "ENGINEERING MECHANICS",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "17",
+            "ccode": "EN214",
+            "ctitle": "PRINCIPLE OF ECONOMICS",
+            "credits": "3",
+            "grade": "E",
+            "cxgp": "6"
+        },
+        {
+            "id": "18",
+            "ccode": "MA215",
+            "ctitle": "COMPLEX VARIABLES",
+            "credits": "3",
+            "grade": "E",
+            "cxgp": "6"
+        },
+        {
+            "id": "19",
+            "ccode": "MA216",
+            "ctitle": "DIFFERENTIAL EQUATIONS AND FOURIER SERIES",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "20",
+            "ccode": "MG217",
+            "ctitle": "PRINCIPLES OF MANAGEMENT",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "21",
+            "ccode": "AO121",
+            "ctitle": "PROBABILITY AND STATISTICS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "22",
+            "ccode": "CS221",
+            "ctitle": "DIGITAL ELECTRONICS AND COMPUTER ORGANIZATION",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "23",
+            "ccode": "CS222",
+            "ctitle": "DISCRETE STRUCTURES FOR COMPUTER SCIENCE",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "24",
+            "ccode": "ES222",
+            "ctitle": "ELECTRICAL SCIENCE-II",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "25",
+            "ccode": "HS223",
+            "ctitle": "DYNAMICS OF SOCIAL CHANGE",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "26",
+            "ccode": "TA224",
+            "ctitle": "PROFESSIONAL COMMUNICATION",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "27",
+            "ccode": "TA225",
+            "ctitle": "MEASUREMENT TECHNIQUES-II",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "28",
+            "ccode": "IP221",
+            "ctitle": "INTERNSHIP PROGRAM-I",
+            "credits": "5",
+            "grade": "A",
+            "cxgp": "50"
+        }
+    ],
+    "lokesh": [
+        {
+            "id": "1",
+            "ccode": "CHEM111",
+            "ctitle": "CHEMISTRY",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "2",
+            "ccode": "EGL112",
+            "ctitle": "ENGLISH LANGUAGE SKILLS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "3",
+            "ccode": "MATH113",
+            "ctitle": "LINEAR ALGEBRA",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "4",
+            "ccode": "PHY114",
+            "ctitle": "PHYSICS-I",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "5",
+            "ccode": "TA115",
+            "ctitle": "ENGINEERING GRAPHICS",
+            "credits": "4",
+            "grade": "C",
+            "cxgp": "24"
+        },
+        {
+            "id": "6",
+            "ccode": "TA116",
+            "ctitle": "COMPUTER PROGRAMMING-I",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "7",
+            "ccode": "ES121",
+            "ctitle": "THERMODYNAMICS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "8",
+            "ccode": "HS122",
+            "ctitle": "INTRODUCTION TO PSYCHOLOGY",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "9",
+            "ccode": "MA123",
+            "ctitle": "HIGHER CALCULUS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "10",
+            "ccode": "PH124",
+            "ctitle": "PHYSICS-II",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "11",
+            "ccode": "TA125",
+            "ctitle": "MEASUREMENT TECHNIQUES-I",
+            "credits": "2",
+            "grade": "B",
+            "cxgp": "16"
+        },
+        {
+            "id": "12",
+            "ccode": "TA126",
+            "ctitle": "WORKSHOP PRACTICE",
+            "credits": "4",
+            "grade": "B",
+            "cxgp": "32"
+        },
+        {
+            "id": "13",
+            "ccode": "TA127",
+            "ctitle": "COMPUTER PROGRAMMING II",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "14",
+            "ccode": "ES211",
+            "ctitle": "ELECTRICAL SCIENCE-I",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "15",
+            "ccode": "ES212",
+            "ctitle": "STRUCTURE AND PROPERTIES OF MATERIALS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "16",
+            "ccode": "ES213",
+            "ctitle": "ENGINEERING MECHANICS",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "17",
+            "ccode": "EN214",
+            "ctitle": "PRINCIPLE OF ECONOMICS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "18",
+            "ccode": "MA215",
+            "ctitle": "COMPLEX VARIABLES",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "19",
+            "ccode": "MA216",
+            "ctitle": "DIFFERENTIAL EQUATIONS AND FOURIER SERIES",
+            "credits": "3",
+            "grade": "D",
+            "cxgp": "12"
+        },
+        {
+            "id": "20",
+            "ccode": "MG217",
+            "ctitle": "PRINCIPLES OF MANAGEMENT",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "21",
+            "ccode": "AO121",
+            "ctitle": "PROBABILITY AND STATISTICS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "22",
+            "ccode": "CS221",
+            "ctitle": "DIGITAL ELECTRONICS AND COMPUTER ORGANIZATION",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "23",
+            "ccode": "CS222",
+            "ctitle": "DISCRETE STRUCTURES FOR COMPUTER SCIENCE",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "24",
+            "ccode": "ES222",
+            "ctitle": "ELECTRICAL SCIENCE-II",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "25",
+            "ccode": "HS223",
+            "ctitle": "DYNAMICS OF SOCIAL CHANGE",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "26",
+            "ccode": "TA224",
+            "ctitle": "PROFESSIONAL COMMUNICATION",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "27",
+            "ccode": "TA225",
+            "ctitle": "MEASUREMENT TECHNIQUES-II",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "28",
+            "ccode": "IP221",
+            "ctitle": "INTERNSHIP PROGRAM-I",
+            "credits": "5",
+            "grade": "A",
+            "cxgp": "50"
+        }
+    ],
+    "anuhya": [
+        {
+            "id": "1",
+            "ccode": "CHEM111",
+            "ctitle": "CHEMISTRY",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "2",
+            "ccode": "EGL112",
+            "ctitle": "ENGLISH LANGUAGE SKILLS",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "3",
+            "ccode": "MATH113",
+            "ctitle": "LINEAR ALGEBRA",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "4",
+            "ccode": "PHY114",
+            "ctitle": "PHYSICS-I",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "5",
+            "ccode": "TA115",
+            "ctitle": "ENGINEERING GRAPHICS",
+            "credits": "4",
+            "grade": "A",
+            "cxgp": "40"
+        },
+        {
+            "id": "6",
+            "ccode": "TA116",
+            "ctitle": "COMPUTER PROGRAMMING-I",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "7",
+            "ccode": "ES121",
+            "ctitle": "THERMODYNAMICS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "8",
+            "ccode": "HS122",
+            "ctitle": "INTRODUCTION TO PSYCHOLOGY",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "9",
+            "ccode": "MA123",
+            "ctitle": "HIGHER CALCULUS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "10",
+            "ccode": "PH124",
+            "ctitle": "PHYSICS-II",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "11",
+            "ccode": "TA125",
+            "ctitle": "MEASUREMENT TECHNIQUES-I",
+            "credits": "2",
+            "grade": "A",
+            "cxgp": "20"
+        },
+        {
+            "id": "12",
+            "ccode": "TA126",
+            "ctitle": "WORKSHOP PRACTICE",
+            "credits": "4",
+            "grade": "A",
+            "cxgp": "40"
+        },
+        {
+            "id": "13",
+            "ccode": "TA127",
+            "ctitle": "COMPUTER PROGRAMMING II",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "14",
+            "ccode": "ES211",
+            "ctitle": "ELECTRICAL SCIENCE-I",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "15",
+            "ccode": "ES212",
+            "ctitle": "STRUCTURE AND PROPERTIES OF MATERIALS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "16",
+            "ccode": "ES213",
+            "ctitle": "ENGINEERING MECHANICS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "17",
+            "ccode": "EN214",
+            "ctitle": "PRINCIPLE OF ECONOMICS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "18",
+            "ccode": "MA215",
+            "ctitle": "COMPLEX VARIABLES",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "19",
+            "ccode": "MA216",
+            "ctitle": "DIFFERENTIAL EQUATIONS AND FOURIER SERIES",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "20",
+            "ccode": "MG217",
+            "ctitle": "PRINCIPLES OF MANAGEMENT",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "21",
+            "ccode": "AO121",
+            "ctitle": "PROBABILITY AND STATISTICS",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "22",
+            "ccode": "CS221",
+            "ctitle": "DIGITAL ELECTRONICS AND COMPUTER ORGANIZATION",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "23",
+            "ccode": "CS222",
+            "ctitle": "DISCRETE STRUCTURES FOR COMPUTER SCIENCE",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "24",
+            "ccode": "ES222",
+            "ctitle": "ELECTRICAL SCIENCE-II",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "25",
+            "ccode": "HS223",
+            "ctitle": "DYNAMICS OF SOCIAL CHANGE",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "26",
+            "ccode": "TA224",
+            "ctitle": "PROFESSIONAL COMMUNICATION",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "27",
+            "ccode": "TA225",
+            "ctitle": "MEASUREMENT TECHNIQUES-II",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "28",
+            "ccode": "IP221",
+            "ctitle": "INTERNSHIP PROGRAM-I",
+            "credits": "5",
+            "grade": "A",
+            "cxgp": "50"
+        }
+    ],
+    "geethika": [
+        {
+            "id": "1",
+            "ccode": "CHEM111",
+            "ctitle": "CHEMISTRY",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "2",
+            "ccode": "EGL112",
+            "ctitle": "ENGLISH LANGUAGE SKILLS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "3",
+            "ccode": "MATH113",
+            "ctitle": "LINEAR ALGEBRA",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "4",
+            "ccode": "PHY114",
+            "ctitle": "PHYSICS-I",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "5",
+            "ccode": "TA115",
+            "ctitle": "ENGINEERING GRAPHICS",
+            "credits": "4",
+            "grade": "C",
+            "cxgp": "24"
+        },
+        {
+            "id": "6",
+            "ccode": "TA116",
+            "ctitle": "COMPUTER PROGRAMMING-I",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "7",
+            "ccode": "ES121",
+            "ctitle": "THERMODYNAMICS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "8",
+            "ccode": "HS122",
+            "ctitle": "INTRODUCTION TO PSYCHOLOGY",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "9",
+            "ccode": "MA123",
+            "ctitle": "HIGHER CALCULUS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "10",
+            "ccode": "PH124",
+            "ctitle": "PHYSICS-II",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "11",
+            "ccode": "TA125",
+            "ctitle": "MEASUREMENT TECHNIQUES-I",
+            "credits": "2",
+            "grade": "A",
+            "cxgp": "20"
+        },
+        {
+            "id": "12",
+            "ccode": "TA126",
+            "ctitle": "WORKSHOP PRACTICE",
+            "credits": "4",
+            "grade": "B",
+            "cxgp": "32"
+        },
+        {
+            "id": "13",
+            "ccode": "TA127",
+            "ctitle": "COMPUTER PROGRAMMING II",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "14",
+            "ccode": "ES211",
+            "ctitle": "ELECTRICAL SCIENCE-I",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "15",
+            "ccode": "ES212",
+            "ctitle": "STRUCTURE AND PROPERTIES OF MATERIALS",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "16",
+            "ccode": "ES213",
+            "ctitle": "ENGINEERING MECHANICS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "17",
+            "ccode": "EN214",
+            "ctitle": "PRINCIPLE OF ECONOMICS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "18",
+            "ccode": "MA215",
+            "ctitle": "COMPLEX VARIABLES",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "19",
+            "ccode": "MA216",
+            "ctitle": "DIFFERENTIAL EQUATIONS AND FOURIER SERIES",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "20",
+            "ccode": "MG217",
+            "ctitle": "PRINCIPLES OF MANAGEMENT",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "21",
+            "ccode": "AO121",
+            "ctitle": "PROBABILITY AND STATISTICS",
+            "credits": "3",
+            "grade": "C",
+            "cxgp": "18"
+        },
+        {
+            "id": "22",
+            "ccode": "CS221",
+            "ctitle": "DIGITAL ELECTRONICS AND COMPUTER ORGANIZATION",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "23",
+            "ccode": "CS222",
+            "ctitle": "DISCRETE STRUCTURES FOR COMPUTER SCIENCE",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "24",
+            "ccode": "ES222",
+            "ctitle": "ELECTRICAL SCIENCE-II",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "25",
+            "ccode": "HS223",
+            "ctitle": "DYNAMICS OF SOCIAL CHANGE",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "26",
+            "ccode": "TA224",
+            "ctitle": "PROFESSIONAL COMMUNICATION",
+            "credits": "3",
+            "grade": "B",
+            "cxgp": "24"
+        },
+        {
+            "id": "27",
+            "ccode": "TA225",
+            "ctitle": "MEASUREMENT TECHNIQUES-II",
+            "credits": "3",
+            "grade": "A",
+            "cxgp": "30"
+        },
+        {
+            "id": "28",
+            "ccode": "IP221",
+            "ctitle": "INTERNSHIP PROGRAM-I",
+            "credits": "5",
+            "grade": "A",
+            "cxgp": "50"
+        }
+    ]
+}

@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import Nav from './pages/Nav';
+import Adithya from './pages/Adithya';
+import Jlokesh from './pages/Jlokesh';
+import Lokesh from './pages/Lokesh';
+import Anuhya from './pages/Anuhya';
+import Geethika from './pages/Geethika';
+import Dashboard from './pages/Dashboard';
+import React from "react";
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div>
+        <Nav />
+        <Switch>
+          <Route exact path="/18-277" component={Adithya} />
+          <Route exact path="/18-086" component={Jlokesh} />
+          <Route exact path="/18-117" component={Lokesh} />
+          <Route exact path="/18-236" component={Anuhya} />
+          <Route exact path="/18-396" component={Geethika} />
+          <Route exact path="/" component={Dashboard} />
+        </Switch>
+      </div>
+    </Router>
   );
 }
 
