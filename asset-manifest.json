@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/our-grades/static/css/main.dca2cbe6.chunk.css",
+    "main.js": "/our-grades/static/js/main.b8ab9d7b.chunk.js",
+    "main.js.map": "/our-grades/static/js/main.b8ab9d7b.chunk.js.map",
+    "runtime-main.js": "/our-grades/static/js/runtime-main.838bfea7.js",
+    "runtime-main.js.map": "/our-grades/static/js/runtime-main.838bfea7.js.map",
+    "static/css/2.658248ec.chunk.css": "/our-grades/static/css/2.658248ec.chunk.css",
+    "static/js/2.773b5ee5.chunk.js": "/our-grades/static/js/2.773b5ee5.chunk.js",
+    "static/js/2.773b5ee5.chunk.js.map": "/our-grades/static/js/2.773b5ee5.chunk.js.map",
+    "static/js/3.83af1c38.chunk.js": "/our-grades/static/js/3.83af1c38.chunk.js",
+    "static/js/3.83af1c38.chunk.js.map": "/our-grades/static/js/3.83af1c38.chunk.js.map",
+    "index.html": "/our-grades/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/our-grades/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.dca2cbe6.chunk.css.map": "/our-grades/static/css/main.dca2cbe6.chunk.css.map",
+    "static/js/2.773b5ee5.chunk.js.LICENSE.txt": "/our-grades/static/js/2.773b5ee5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/our-grades/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.838bfea7.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.773b5ee5.chunk.js",
+    "static/css/main.dca2cbe6.chunk.css",
+    "static/js/main.b8ab9d7b.chunk.js"
+  ]
+}
